@@ -1,0 +1,276 @@
+2026-06-24 13:38:59,497 [INFO] ============================================================
+2026-06-24 13:38:59,497 [INFO] TurnBackHoax Scraper — REBUILT
+2026-06-24 13:38:59,497 [INFO] Target: https://turnbackhoax.id/articles
+2026-06-24 13:38:59,497 [INFO] ============================================================
+2026-06-24 13:38:59,497 [INFO] Fetching article list page 1: https://turnbackhoax.id/articles?page=1
+2026-06-24 13:39:07,247 [INFO]   → Found 10 articles on page 1. Total so far: 10
+2026-06-24 13:39:08,762 [INFO] Fetching article list page 2: https://turnbackhoax.id/articles?page=2
+2026-06-24 13:39:15,315 [INFO]   → Found 10 articles on page 2. Total so far: 20
+2026-06-24 13:39:16,819 [INFO] Reached MAX_PAGES=2 limit. Stopping.
+2026-06-24 13:39:16,821 [INFO] ✅ Total article URLs collected: 20
+2026-06-24 13:41:08,607 [INFO] 
+✅ DONE! 20 articles saved to 'turnbackhoax_articles.csv'
+2026-06-24 13:54:24,919 [INFO] ============================================================
+2026-06-24 13:54:24,919 [INFO] TurnBackHoax Scraper v4 — FINAL
+2026-06-24 13:54:24,919 [INFO] Target : https://turnbackhoax.id/articles
+2026-06-24 13:54:24,919 [INFO] Output : turnbackhoax_articles.csv
+2026-06-24 13:54:24,919 [INFO] ============================================================
+2026-06-24 13:54:24,919 [INFO] Fetching list page 1: https://turnbackhoax.id/articles?page=1
+2026-06-24 13:54:37,829 [INFO] No articles found on page 1. Pagination complete.
+2026-06-24 13:54:37,829 [INFO] ✅ Total article URLs collected: 0
+2026-06-24 13:54:37,829 [ERROR] No articles collected. Check network or selectors.
+2026-06-24 13:55:41,256 [INFO] ============================================================
+2026-06-24 13:55:41,256 [INFO] TurnBackHoax Scraper v4 — FINAL
+2026-06-24 13:55:41,256 [INFO] Target : https://turnbackhoax.id/articles
+2026-06-24 13:55:41,256 [INFO] Output : turnbackhoax_articles.csv
+2026-06-24 13:55:41,256 [INFO] ============================================================
+2026-06-24 13:55:41,256 [INFO] Fetching list page 1: https://turnbackhoax.id/articles?page=1
+2026-06-24 13:55:48,822 [INFO]   → 10 articles on page 1. Total so far: 10
+2026-06-24 13:55:50,335 [INFO] Fetching list page 2: https://turnbackhoax.id/articles?page=2
+2026-06-24 13:55:57,724 [INFO]   → 10 articles on page 2. Total so far: 20
+2026-06-24 13:55:59,234 [INFO] Reached MAX_PAGES=2 limit. Stopping.
+2026-06-24 13:55:59,234 [INFO] ✅ Total article URLs collected: 20
+2026-06-24 13:57:31,184 [INFO] ============================================================
+2026-06-24 13:57:31,184 [INFO] ✅ DONE! 20 articles saved to 'turnbackhoax_articles.csv'
+2026-06-24 13:57:31,184 [INFO]    Classifications : {'SALAH': 10, 'PENIPUAN': 9, 'PARODI': 1}
+2026-06-24 13:57:31,184 [INFO]    Categories      : {'Politik': 8, 'Lowongan': 6, 'Bantuan': 2, 'Bencana': 1, 'Kesehatan': 1, 'Bisnis': 1, 'Hadiah': 1}
+2026-06-24 13:57:31,198 [INFO]    Date range      : 17/06/2026 → 24/06/2026
+2026-06-24 13:57:31,199 [INFO]    Empty narasi    : 0
+2026-06-24 13:57:31,200 [INFO]    Empty kesimpulan: 0
+2026-06-24 13:57:31,200 [INFO] ============================================================
+2026-06-24 14:01:09,769 [INFO] ============================================================
+2026-06-24 14:01:09,769 [INFO] TurnBackHoax Scraper v4 — FINAL
+2026-06-24 14:01:09,771 [INFO] Target : https://turnbackhoax.id/articles
+2026-06-24 14:01:09,771 [INFO] Output : turnbackhoax_articles.csv
+2026-06-24 14:01:09,771 [INFO] ============================================================
+2026-06-24 14:01:09,772 [INFO] Fetching list page 1: https://turnbackhoax.id/articles?page=1
+2026-06-24 14:01:18,260 [INFO]   → 10 articles on page 1. Total so far: 10
+2026-06-24 14:01:19,773 [INFO] Fetching list page 2: https://turnbackhoax.id/articles?page=2
+2026-06-24 14:01:26,153 [INFO]   → 10 articles on page 2. Total so far: 20
+2026-06-24 14:01:27,661 [INFO] Reached MAX_PAGES=2 limit. Stopping.
+2026-06-24 14:01:27,661 [INFO] ✅ Total article URLs collected: 20
+2026-06-24 14:02:54,423 [INFO] ============================================================
+2026-06-24 14:02:54,423 [INFO] ✅ DONE! 20 articles saved to 'turnbackhoax_articles.csv'
+2026-06-24 14:02:54,424 [INFO]    Classifications : {'SALAH': 10, 'PENIPUAN': 9, 'PARODI': 1}
+2026-06-24 14:02:54,425 [INFO]    Categories      : {'Politik': 8, 'Lowongan': 6, 'Bantuan': 2, 'Bencana': 1, 'Kesehatan': 1, 'Bisnis': 1, 'Hadiah': 1}
+2026-06-24 14:02:54,425 [INFO]    Date range      : 17/06/2026 → 24/06/2026
+2026-06-24 14:02:54,425 [INFO]    Empty narasi    : 0
+2026-06-24 14:02:54,425 [INFO]    Empty kesimpulan: 0
+2026-06-24 14:02:54,426 [INFO] ============================================================
+2026-06-24 14:03:44,272 [INFO] ============================================================
+2026-06-24 14:03:44,272 [INFO] TurnBackHoax Scraper v4 — FINAL
+2026-06-24 14:03:44,272 [INFO] Target : https://turnbackhoax.id/articles
+2026-06-24 14:03:44,272 [INFO] Output : turnbackhoax_articles.csv
+2026-06-24 14:03:44,272 [INFO] ============================================================
+2026-06-24 14:03:44,272 [INFO] Fetching list page 1: https://turnbackhoax.id/articles?page=1
+2026-06-24 14:03:50,022 [INFO]   → 10 articles on page 1. Total so far: 10
+2026-06-24 14:03:51,538 [INFO] Fetching list page 2: https://turnbackhoax.id/articles?page=2
+2026-06-24 14:03:59,600 [INFO]   → 10 articles on page 2. Total so far: 20
+2026-06-24 14:04:01,110 [INFO] Fetching list page 3: https://turnbackhoax.id/articles?page=3
+2026-06-24 14:04:06,164 [INFO]   → 10 articles on page 3. Total so far: 30
+2026-06-24 14:04:07,674 [INFO] Fetching list page 4: https://turnbackhoax.id/articles?page=4
+2026-06-24 14:04:13,262 [INFO]   → 10 articles on page 4. Total so far: 40
+2026-06-24 14:04:14,777 [INFO] Fetching list page 5: https://turnbackhoax.id/articles?page=5
+2026-06-24 14:04:19,332 [INFO]   → 10 articles on page 5. Total so far: 50
+2026-06-24 14:04:20,844 [INFO] Fetching list page 6: https://turnbackhoax.id/articles?page=6
+2026-06-24 14:04:26,438 [INFO]   → 10 articles on page 6. Total so far: 60
+2026-06-24 14:04:27,951 [INFO] Fetching list page 7: https://turnbackhoax.id/articles?page=7
+2026-06-24 14:04:33,978 [INFO]   → 10 articles on page 7. Total so far: 70
+2026-06-24 14:04:35,491 [INFO] Fetching list page 8: https://turnbackhoax.id/articles?page=8
+2026-06-24 14:04:42,257 [INFO]   → 10 articles on page 8. Total so far: 80
+2026-06-24 14:04:43,772 [INFO] Fetching list page 9: https://turnbackhoax.id/articles?page=9
+2026-06-24 14:04:50,066 [INFO]   → 10 articles on page 9. Total so far: 90
+2026-06-24 14:04:51,572 [INFO] Fetching list page 10: https://turnbackhoax.id/articles?page=10
+2026-06-24 14:04:57,516 [INFO]   → 10 articles on page 10. Total so far: 100
+2026-06-24 14:04:59,028 [INFO] Fetching list page 11: https://turnbackhoax.id/articles?page=11
+2026-06-24 14:05:05,821 [INFO]   → 10 articles on page 11. Total so far: 110
+2026-06-24 14:05:07,326 [INFO] Fetching list page 12: https://turnbackhoax.id/articles?page=12
+2026-06-24 14:05:12,517 [INFO]   → 10 articles on page 12. Total so far: 120
+2026-06-24 14:05:14,022 [INFO] Fetching list page 13: https://turnbackhoax.id/articles?page=13
+2026-06-24 14:05:20,058 [INFO]   → 10 articles on page 13. Total so far: 130
+2026-06-24 14:05:21,565 [INFO] Fetching list page 14: https://turnbackhoax.id/articles?page=14
+2026-06-24 14:05:27,203 [INFO]   → 10 articles on page 14. Total so far: 140
+2026-06-24 14:05:28,705 [INFO] Fetching list page 15: https://turnbackhoax.id/articles?page=15
+2026-06-24 14:05:33,855 [INFO]   → 10 articles on page 15. Total so far: 150
+2026-06-24 14:05:35,356 [INFO] Fetching list page 16: https://turnbackhoax.id/articles?page=16
+2026-06-24 14:05:42,597 [INFO]   → 10 articles on page 16. Total so far: 160
+2026-06-24 14:05:44,106 [INFO] Fetching list page 17: https://turnbackhoax.id/articles?page=17
+2026-06-24 14:05:53,187 [INFO]   → 10 articles on page 17. Total so far: 170
+2026-06-24 14:05:54,691 [INFO] Fetching list page 18: https://turnbackhoax.id/articles?page=18
+2026-06-24 14:06:00,266 [INFO]   → 10 articles on page 18. Total so far: 180
+2026-06-24 14:06:01,769 [INFO] Fetching list page 19: https://turnbackhoax.id/articles?page=19
+2026-06-24 14:06:09,539 [INFO]   → 10 articles on page 19. Total so far: 190
+2026-06-24 14:06:11,045 [INFO] Fetching list page 20: https://turnbackhoax.id/articles?page=20
+2026-06-24 14:06:17,329 [INFO]   → 10 articles on page 20. Total so far: 200
+2026-06-24 14:06:18,834 [INFO] Fetching list page 21: https://turnbackhoax.id/articles?page=21
+2026-06-24 14:06:24,979 [INFO]   → 10 articles on page 21. Total so far: 210
+2026-06-24 14:06:26,480 [INFO] Fetching list page 22: https://turnbackhoax.id/articles?page=22
+2026-06-24 14:06:32,806 [INFO]   → 10 articles on page 22. Total so far: 220
+2026-06-24 14:06:34,323 [INFO] Fetching list page 23: https://turnbackhoax.id/articles?page=23
+2026-06-24 14:06:42,666 [INFO]   → 10 articles on page 23. Total so far: 230
+2026-06-24 14:06:44,169 [INFO] Fetching list page 24: https://turnbackhoax.id/articles?page=24
+2026-06-24 14:06:50,405 [INFO]   → 10 articles on page 24. Total so far: 240
+2026-06-24 14:06:51,913 [INFO] Fetching list page 25: https://turnbackhoax.id/articles?page=25
+2026-06-24 14:06:58,032 [INFO]   → 10 articles on page 25. Total so far: 250
+2026-06-24 14:06:59,534 [INFO] Fetching list page 26: https://turnbackhoax.id/articles?page=26
+2026-06-24 14:07:05,440 [INFO]   → 10 articles on page 26. Total so far: 260
+2026-06-24 14:07:06,941 [INFO] Fetching list page 27: https://turnbackhoax.id/articles?page=27
+2026-06-24 14:07:13,331 [INFO]   → 10 articles on page 27. Total so far: 270
+2026-06-24 14:07:14,834 [INFO] Fetching list page 28: https://turnbackhoax.id/articles?page=28
+2026-06-24 14:07:21,661 [INFO]   → 10 articles on page 28. Total so far: 280
+2026-06-24 14:07:23,164 [INFO] Fetching list page 29: https://turnbackhoax.id/articles?page=29
+2026-06-24 14:07:28,297 [INFO]   → 10 articles on page 29. Total so far: 290
+2026-06-24 14:07:29,811 [INFO] Fetching list page 30: https://turnbackhoax.id/articles?page=30
+2026-06-24 14:07:35,633 [INFO]   → 10 articles on page 30. Total so far: 300
+2026-06-24 14:07:37,143 [INFO] Fetching list page 31: https://turnbackhoax.id/articles?page=31
+2026-06-24 14:07:43,693 [INFO]   → 10 articles on page 31. Total so far: 310
+2026-06-24 14:07:45,195 [INFO] Fetching list page 32: https://turnbackhoax.id/articles?page=32
+2026-06-24 14:07:53,038 [INFO]   → 10 articles on page 32. Total so far: 320
+2026-06-24 14:07:54,549 [INFO] Fetching list page 33: https://turnbackhoax.id/articles?page=33
+2026-06-24 14:08:01,414 [INFO]   → 10 articles on page 33. Total so far: 330
+2026-06-24 14:08:02,916 [INFO] Fetching list page 34: https://turnbackhoax.id/articles?page=34
+2026-06-24 14:08:09,928 [INFO]   → 10 articles on page 34. Total so far: 340
+2026-06-24 14:08:11,432 [INFO] Fetching list page 35: https://turnbackhoax.id/articles?page=35
+2026-06-24 14:08:18,538 [INFO]   → 10 articles on page 35. Total so far: 350
+2026-06-24 14:08:20,039 [INFO] Fetching list page 36: https://turnbackhoax.id/articles?page=36
+2026-06-24 14:08:26,094 [INFO]   → 10 articles on page 36. Total so far: 360
+2026-06-24 14:08:27,600 [INFO] Fetching list page 37: https://turnbackhoax.id/articles?page=37
+2026-06-24 14:08:33,390 [INFO]   → 10 articles on page 37. Total so far: 370
+2026-06-24 14:08:34,897 [INFO] Fetching list page 38: https://turnbackhoax.id/articles?page=38
+2026-06-24 14:08:41,632 [INFO]   → 10 articles on page 38. Total so far: 380
+2026-06-24 14:08:43,136 [INFO] Fetching list page 39: https://turnbackhoax.id/articles?page=39
+2026-06-24 14:08:48,686 [INFO]   → 10 articles on page 39. Total so far: 390
+2026-06-24 14:08:50,192 [INFO] Fetching list page 40: https://turnbackhoax.id/articles?page=40
+2026-06-24 14:08:55,877 [INFO]   → 10 articles on page 40. Total so far: 400
+2026-06-24 14:08:57,393 [INFO] Fetching list page 41: https://turnbackhoax.id/articles?page=41
+2026-06-24 14:09:02,873 [INFO]   → 10 articles on page 41. Total so far: 410
+2026-06-24 14:09:04,380 [INFO] Fetching list page 42: https://turnbackhoax.id/articles?page=42
+2026-06-24 14:09:11,051 [INFO]   → 10 articles on page 42. Total so far: 420
+2026-06-24 14:09:12,562 [INFO] Fetching list page 43: https://turnbackhoax.id/articles?page=43
+2026-06-24 14:09:18,015 [INFO]   → 10 articles on page 43. Total so far: 430
+2026-06-24 14:09:19,517 [INFO] Fetching list page 44: https://turnbackhoax.id/articles?page=44
+2026-06-24 14:09:28,292 [INFO]   → 10 articles on page 44. Total so far: 440
+2026-06-24 14:09:29,795 [INFO] Fetching list page 45: https://turnbackhoax.id/articles?page=45
+2026-06-24 14:09:36,902 [INFO]   → 10 articles on page 45. Total so far: 450
+2026-06-24 14:09:38,416 [INFO] Fetching list page 46: https://turnbackhoax.id/articles?page=46
+2026-06-24 14:09:45,049 [INFO]   → 10 articles on page 46. Total so far: 460
+2026-06-24 14:09:46,553 [INFO] Fetching list page 47: https://turnbackhoax.id/articles?page=47
+2026-06-24 14:09:54,687 [INFO]   → 10 articles on page 47. Total so far: 470
+2026-06-24 14:09:56,199 [INFO] Fetching list page 48: https://turnbackhoax.id/articles?page=48
+2026-06-24 14:10:04,486 [INFO]   → 10 articles on page 48. Total so far: 480
+2026-06-24 14:10:06,002 [INFO] Fetching list page 49: https://turnbackhoax.id/articles?page=49
+2026-06-24 14:10:13,331 [INFO]   → 10 articles on page 49. Total so far: 490
+2026-06-24 14:10:14,837 [INFO] Fetching list page 50: https://turnbackhoax.id/articles?page=50
+2026-06-24 14:10:20,719 [INFO]   → 10 articles on page 50. Total so far: 500
+2026-06-24 14:10:22,223 [INFO] Fetching list page 51: https://turnbackhoax.id/articles?page=51
+2026-06-24 14:10:28,205 [INFO]   → 10 articles on page 51. Total so far: 510
+2026-06-24 14:10:29,710 [INFO] Fetching list page 52: https://turnbackhoax.id/articles?page=52
+2026-06-24 14:10:35,706 [INFO]   → 10 articles on page 52. Total so far: 520
+2026-06-24 14:10:37,222 [INFO] Fetching list page 53: https://turnbackhoax.id/articles?page=53
+2026-06-24 14:10:42,590 [INFO]   → 10 articles on page 53. Total so far: 530
+2026-06-24 14:10:44,093 [INFO] Fetching list page 54: https://turnbackhoax.id/articles?page=54
+2026-06-24 14:10:49,188 [INFO]   → 10 articles on page 54. Total so far: 540
+2026-06-24 14:10:50,697 [INFO] Fetching list page 55: https://turnbackhoax.id/articles?page=55
+2026-06-24 14:10:56,402 [INFO]   → 10 articles on page 55. Total so far: 550
+2026-06-24 14:10:57,903 [INFO] Fetching list page 56: https://turnbackhoax.id/articles?page=56
+2026-06-24 14:11:05,571 [INFO]   → 10 articles on page 56. Total so far: 560
+2026-06-24 14:11:07,084 [INFO] Fetching list page 57: https://turnbackhoax.id/articles?page=57
+2026-06-24 14:11:13,143 [INFO]   → 10 articles on page 57. Total so far: 570
+2026-06-24 14:11:14,644 [INFO] Fetching list page 58: https://turnbackhoax.id/articles?page=58
+2026-06-24 14:11:20,890 [INFO]   → 10 articles on page 58. Total so far: 580
+2026-06-24 14:11:22,392 [INFO] Fetching list page 59: https://turnbackhoax.id/articles?page=59
+2026-06-24 14:11:28,353 [INFO]   → 10 articles on page 59. Total so far: 590
+2026-06-24 14:11:29,855 [INFO] Fetching list page 60: https://turnbackhoax.id/articles?page=60
+2026-06-24 14:11:35,864 [INFO]   → 10 articles on page 60. Total so far: 600
+2026-06-24 14:11:37,366 [INFO] Fetching list page 61: https://turnbackhoax.id/articles?page=61
+2026-06-24 14:11:44,368 [INFO]   → 10 articles on page 61. Total so far: 610
+2026-06-24 14:11:45,876 [INFO] Fetching list page 62: https://turnbackhoax.id/articles?page=62
+2026-06-24 14:11:57,286 [INFO]   → 10 articles on page 62. Total so far: 620
+2026-06-24 14:11:58,799 [INFO] Fetching list page 63: https://turnbackhoax.id/articles?page=63
+2026-06-24 14:12:07,866 [INFO]   → 10 articles on page 63. Total so far: 630
+2026-06-24 14:12:09,375 [INFO] Fetching list page 64: https://turnbackhoax.id/articles?page=64
+2026-06-24 14:12:19,142 [INFO]   → 10 articles on page 64. Total so far: 640
+2026-06-24 14:12:20,651 [INFO] Fetching list page 65: https://turnbackhoax.id/articles?page=65
+2026-06-24 14:12:27,113 [INFO]   → 10 articles on page 65. Total so far: 650
+2026-06-24 14:12:28,623 [INFO] Fetching list page 66: https://turnbackhoax.id/articles?page=66
+2026-06-24 14:12:35,043 [INFO]   → 10 articles on page 66. Total so far: 660
+2026-06-24 14:12:36,554 [INFO] Fetching list page 67: https://turnbackhoax.id/articles?page=67
+2026-06-24 14:12:43,647 [INFO]   → 10 articles on page 67. Total so far: 670
+2026-06-24 14:12:45,157 [INFO] Fetching list page 68: https://turnbackhoax.id/articles?page=68
+2026-06-24 14:12:52,169 [INFO]   → 10 articles on page 68. Total so far: 680
+2026-06-24 14:12:53,680 [INFO] Fetching list page 69: https://turnbackhoax.id/articles?page=69
+2026-06-24 14:13:05,166 [INFO]   → 10 articles on page 69. Total so far: 690
+2026-06-24 14:13:06,667 [INFO] Fetching list page 70: https://turnbackhoax.id/articles?page=70
+2026-06-24 14:13:12,951 [INFO]   → 10 articles on page 70. Total so far: 700
+2026-06-24 14:13:14,461 [INFO] Fetching list page 71: https://turnbackhoax.id/articles?page=71
+2026-06-24 14:13:21,027 [INFO]   → 10 articles on page 71. Total so far: 710
+2026-06-24 14:13:22,529 [INFO] Fetching list page 72: https://turnbackhoax.id/articles?page=72
+2026-06-24 14:13:29,500 [INFO]   → 10 articles on page 72. Total so far: 720
+2026-06-24 14:13:31,016 [INFO] Fetching list page 73: https://turnbackhoax.id/articles?page=73
+2026-06-24 14:13:39,355 [INFO]   → 10 articles on page 73. Total so far: 730
+2026-06-24 14:13:40,869 [INFO] Fetching list page 74: https://turnbackhoax.id/articles?page=74
+2026-06-24 14:13:51,501 [INFO]   → 10 articles on page 74. Total so far: 740
+2026-06-24 14:13:53,008 [INFO] Fetching list page 75: https://turnbackhoax.id/articles?page=75
+2026-06-24 14:13:59,473 [INFO]   → 10 articles on page 75. Total so far: 750
+2026-06-24 14:14:00,975 [INFO] Fetching list page 76: https://turnbackhoax.id/articles?page=76
+2026-06-24 14:14:06,995 [INFO]   → 10 articles on page 76. Total so far: 760
+2026-06-24 14:14:08,511 [INFO] Fetching list page 77: https://turnbackhoax.id/articles?page=77
+2026-06-24 14:14:14,145 [INFO]   → 10 articles on page 77. Total so far: 770
+2026-06-24 14:14:15,659 [INFO] Fetching list page 78: https://turnbackhoax.id/articles?page=78
+2026-06-24 14:14:23,504 [INFO]   → 10 articles on page 78. Total so far: 780
+2026-06-24 14:14:25,006 [INFO] Fetching list page 79: https://turnbackhoax.id/articles?page=79
+2026-06-24 14:14:31,295 [INFO]   → 10 articles on page 79. Total so far: 790
+2026-06-24 14:14:32,797 [INFO] Fetching list page 80: https://turnbackhoax.id/articles?page=80
+2026-06-24 14:14:39,282 [INFO]   → 10 articles on page 80. Total so far: 800
+2026-06-24 14:14:40,784 [INFO] Fetching list page 81: https://turnbackhoax.id/articles?page=81
+2026-06-24 14:14:48,757 [INFO]   → 10 articles on page 81. Total so far: 810
+2026-06-24 14:14:50,264 [INFO] Fetching list page 82: https://turnbackhoax.id/articles?page=82
+2026-06-24 14:14:58,692 [INFO]   → 10 articles on page 82. Total so far: 820
+2026-06-24 14:15:00,194 [INFO] Fetching list page 83: https://turnbackhoax.id/articles?page=83
+2026-06-24 14:15:06,191 [INFO]   → 10 articles on page 83. Total so far: 830
+2026-06-24 14:15:07,700 [INFO] Fetching list page 84: https://turnbackhoax.id/articles?page=84
+2026-06-24 14:15:13,894 [INFO]   → 10 articles on page 84. Total so far: 840
+2026-06-24 14:15:15,398 [INFO] Fetching list page 85: https://turnbackhoax.id/articles?page=85
+2026-06-24 14:15:21,965 [INFO]   → 10 articles on page 85. Total so far: 850
+2026-06-24 14:15:23,472 [INFO] Fetching list page 86: https://turnbackhoax.id/articles?page=86
+2026-06-24 14:15:30,515 [INFO]   → 10 articles on page 86. Total so far: 860
+2026-06-24 14:15:32,023 [INFO] Fetching list page 87: https://turnbackhoax.id/articles?page=87
+2026-06-24 14:15:37,472 [INFO]   → 10 articles on page 87. Total so far: 870
+2026-06-24 14:15:38,979 [INFO] Fetching list page 88: https://turnbackhoax.id/articles?page=88
+2026-06-24 14:15:46,080 [INFO]   → 10 articles on page 88. Total so far: 880
+2026-06-24 14:15:47,583 [INFO] Fetching list page 89: https://turnbackhoax.id/articles?page=89
+2026-06-24 14:15:54,583 [INFO]   → 10 articles on page 89. Total so far: 890
+2026-06-24 14:15:56,087 [INFO] Fetching list page 90: https://turnbackhoax.id/articles?page=90
+2026-06-24 14:16:05,223 [INFO]   → 10 articles on page 90. Total so far: 900
+2026-06-24 14:16:06,727 [INFO] Fetching list page 91: https://turnbackhoax.id/articles?page=91
+2026-06-24 14:16:14,237 [INFO]   → 10 articles on page 91. Total so far: 910
+2026-06-24 14:16:15,742 [INFO] Fetching list page 92: https://turnbackhoax.id/articles?page=92
+2026-06-24 14:16:22,929 [INFO]   → 10 articles on page 92. Total so far: 920
+2026-06-24 14:16:24,439 [INFO] Fetching list page 93: https://turnbackhoax.id/articles?page=93
+2026-06-24 14:16:30,287 [INFO]   → 10 articles on page 93. Total so far: 930
+2026-06-24 14:16:31,793 [INFO] Fetching list page 94: https://turnbackhoax.id/articles?page=94
+2026-06-24 14:16:39,429 [INFO]   → 10 articles on page 94. Total so far: 940
+2026-06-24 14:16:40,934 [INFO] Fetching list page 95: https://turnbackhoax.id/articles?page=95
+2026-06-24 14:16:47,163 [INFO]   → 10 articles on page 95. Total so far: 950
+2026-06-24 14:16:48,675 [INFO] Fetching list page 96: https://turnbackhoax.id/articles?page=96
+2026-06-24 14:16:56,243 [INFO]   → 10 articles on page 96. Total so far: 960
+2026-06-24 14:16:57,752 [INFO] Fetching list page 97: https://turnbackhoax.id/articles?page=97
+2026-06-24 14:17:09,321 [INFO] No articles found on page 97. Pagination complete.
+2026-06-24 14:17:09,321 [INFO] ✅ Total article URLs collected: 960
+2026-06-24 14:23:48,774 [INFO]   💾 Auto-saved checkpoint: 100 articles
+2026-06-24 14:30:31,037 [INFO]   💾 Auto-saved checkpoint: 200 articles
+2026-06-24 14:39:07,807 [INFO]   💾 Auto-saved checkpoint: 300 articles
+2026-06-24 14:48:46,648 [INFO]   💾 Auto-saved checkpoint: 400 articles
+2026-06-24 14:56:54,806 [INFO]   💾 Auto-saved checkpoint: 500 articles
+2026-06-24 15:05:16,210 [INFO]   💾 Auto-saved checkpoint: 600 articles
+2026-06-24 15:15:53,308 [INFO]   💾 Auto-saved checkpoint: 700 articles
+2026-06-24 15:26:04,360 [INFO]   💾 Auto-saved checkpoint: 800 articles
+2026-06-24 15:35:08,347 [INFO]   💾 Auto-saved checkpoint: 900 articles
+2026-06-24 15:40:42,059 [INFO] ============================================================
+2026-06-24 15:40:42,060 [INFO] ✅ DONE! 960 articles saved to 'turnbackhoax_articles.csv'
+2026-06-24 15:40:42,070 [INFO]    Classifications : {'SALAH': 613, 'PENIPUAN': 267, 'PARODI': 7, 'SATIRE': 1, 'SATIR': 1, 'KOMEDI': 1}
+2026-06-24 15:40:42,071 [INFO]    Categories      : {'Politik': 509, 'Lowongan': 130, 'Bantuan': 86, 'Hadiah': 38, 'Bencana': 27, 'Kesehatan': 23, 'Unik': 18, 'Bisnis': 16, 'Uncategorized': 7, 'Olahraga': 7, 'Agama': 7, 'Insiden': 6, 'Kriminalitas': 6, 'Other': 5, 'Tekno': 3, 'Personal': 2}
+2026-06-24 15:40:42,073 [INFO]    Date range      : 01/01/2026 → 31/12/2025
+2026-06-24 15:40:42,074 [INFO]    Empty narasi    : 70
+2026-06-24 15:40:42,075 [INFO]    Empty kesimpulan: 70
+2026-06-24 15:40:42,075 [INFO] ============================================================
