@@ -1,0 +1,158 @@
+2026-06-28 12:15:46,182 [INFO] =================================================================
+2026-06-28 12:15:46,182 [INFO] Content Scraper — TurnBackHoax
+2026-06-28 12:15:46,182 [INFO]   Input  : turnbackhoax_articles.csv
+2026-06-28 12:15:46,182 [INFO]   Output : scraped_content.csv
+2026-06-28 12:15:46,182 [INFO]   MAX_ROWS: 5
+2026-06-28 12:15:46,182 [INFO] =================================================================
+2026-06-28 12:15:46,209 [INFO]   TEST MODE: processing first 5 rows only.
+2026-06-28 12:15:46,209 [INFO]   Articles to process: 5
+2026-06-28 12:15:46,238 [INFO] 
+[0] Processing article 1/5
+2026-06-28 12:15:46,239 [INFO]     [false#0] SOCIAL_MEDIA  https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 12:15:46,614 [WARNING]     ⚠ No text extracted from https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 12:15:48,130 [INFO]     [true#0] SOCIAL_MEDIA  https://www.instagram.com/p/DZt34zcCXNJ/?igsh=MXNjOWxkaGQwYnR6bA==
+2026-06-28 12:15:48,678 [WARNING]     ⚠ No text extracted from https://www.instagram.com/p/DZt34zcCXNJ/?igsh=MXNjOWxkaGQwYnR6bA==
+2026-06-28 12:15:50,192 [INFO]     [true#1] SKIP  https://magma.esdm.go.id/
+2026-06-28 12:15:51,692 [INFO]     [true#2] SKIP  http://geologi.esdm.go.id
+2026-06-28 12:15:53,194 [INFO]     [true#3] SOCIAL_MEDIA  https://www.instagram.com/badan.geologi?igsh=MTZ2eDJyaXU2NnUxbA==
+2026-06-28 12:15:54,042 [WARNING]     ⚠ No text extracted from https://www.instagram.com/badan.geologi?igsh=MTZ2eDJyaXU2NnUxbA==
+2026-06-28 12:15:55,544 [INFO]     [true#4] SOCIAL_MEDIA  https://x.com/badangeologi_
+2026-06-28 12:15:58,561 [INFO]     [true#5] NEWS_SITE  https://www.detik.com/jatim/wisata/d-7310791/8-fakta-menarik-gunung-lawu-yang-berstatus-istirahat
+2026-06-28 12:16:00,790 [INFO]     [true#6] SOCIAL_MEDIA  https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 12:16:01,134 [WARNING]     ⚠ No text extracted from https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 12:16:02,642 [INFO]     [true#7] ARCHIVE  http://archive.today/8jo4a
+2026-06-28 12:16:04,481 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/8jo4a — http://archive.today/8jo4a
+2026-06-28 12:16:05,994 [INFO] 
+[1] Processing article 2/5
+2026-06-28 12:16:05,994 [INFO]     [false#0] SOCIAL_MEDIA  https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 12:16:06,452 [WARNING]   HTTP error: 400 Client Error: Bad Request for url: https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl — https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 12:16:07,955 [INFO]     [true#0] NEWS_SITE  https://www.kompas.tv/info-publik/676022/pln-klarifikasi-isu-pemadaman-listrik-total-3-hari-nonstop-di-jawa-dan-bali-dipastikan-hoaks
+2026-06-28 12:16:10,649 [INFO]     [true#1] SOCIAL_MEDIA  https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 12:16:10,922 [WARNING]   HTTP error: 400 Client Error: Bad Request for url: https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl — https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 12:16:12,425 [INFO]     [true#2] ARCHIVE  https://archive.ph/wip/zcQc7
+2026-06-28 12:16:14,577 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/zcQc7 — https://archive.ph/wip/zcQc7
+2026-06-28 12:16:16,081 [INFO] 
+[2] Processing article 3/5
+2026-06-28 12:16:16,081 [INFO]     [false#0] SOCIAL_MEDIA  https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 12:16:18,846 [WARNING]     ⚠ No text extracted from https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 12:16:20,356 [INFO]     [true#0] NEWS_SITE  https://www.liputan6.com/cek-fakta/read/7891164/cek-fakta-hoaks-artikel-jubir-esdm-minta-masyarakat-pakai-solar-saat-pertamax-naik-harga
+2026-06-28 12:16:23,633 [INFO]     [true#1] NEWS_SITE  https://money.kompas.com/read/2026/06/11/174512626/pertamax-jadi-rp-16250-per-liter-esdm-itu-masih-di-bawah-harga-keekonomian.
+2026-06-28 12:16:26,066 [INFO]     [true#2] SOCIAL_MEDIA  https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 12:16:27,219 [WARNING]     ⚠ No text extracted from https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 12:16:28,721 [INFO]     [true#3] ARCHIVE  https://archive.ph/uyrOd
+2026-06-28 12:16:30,468 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/uyrOd — https://archive.ph/uyrOd
+2026-06-28 12:16:31,982 [INFO] 
+[3] Processing article 4/5
+2026-06-28 12:16:31,982 [INFO]     [false#0] SOCIAL_MEDIA  https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 12:16:32,575 [WARNING]     ⚠ No text extracted from https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 12:16:34,076 [INFO]     [true#0] NEWS_SITE  https://sariroti.com/id/karir
+2026-06-28 12:16:37,809 [INFO]     [true#1] SOCIAL_MEDIA  https://www.linkedin.com/company/pt-nippon-indosari-corpindo-tbk/
+2026-06-28 12:16:40,192 [INFO]     [true#2] SOCIAL_MEDIA  https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 12:16:40,994 [WARNING]     ⚠ No text extracted from https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 12:16:42,509 [INFO]     [true#3] ARCHIVE  http://archive.today/86CAq
+2026-06-28 12:16:44,687 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/86CAq — http://archive.today/86CAq
+2026-06-28 12:16:46,196 [INFO] 
+[4] Processing article 5/5
+2026-06-28 12:16:46,196 [INFO]     [false#0] SOCIAL_MEDIA  https://vt.tiktok.com/ZSxg3vfWf/
+2026-06-28 12:16:47,988 [INFO]     [true#0] NEWS_SITE  https://karir.adhi.co.id/
+2026-06-28 12:17:08,507 [WARNING]   Timeout (attempt 1/3): https://karir.adhi.co.id/
+2026-06-28 12:17:30,519 [WARNING]   Timeout (attempt 2/3): https://karir.adhi.co.id/
+2026-06-28 12:17:54,530 [WARNING]   Timeout (attempt 3/3): https://karir.adhi.co.id/
+2026-06-28 12:17:56,031 [INFO]     [true#1] SOCIAL_MEDIA  https://www.instagram.com/p/CXX9V6JhfX5/?igsh=dWpucXFrN3Bsa3F1
+2026-06-28 12:17:56,554 [WARNING]     ⚠ No text extracted from https://www.instagram.com/p/CXX9V6JhfX5/?igsh=dWpucXFrN3Bsa3F1
+2026-06-28 12:17:58,055 [INFO]     [true#2] SOCIAL_MEDIA  https://www.instagram.com/adhikaryaid?igsh=dmZobjIwYjI4b29o
+2026-06-28 12:17:58,529 [WARNING]     ⚠ No text extracted from https://www.instagram.com/adhikaryaid?igsh=dmZobjIwYjI4b29o
+2026-06-28 12:18:00,029 [INFO]     [true#3] SOCIAL_MEDIA  https://x.com/adhikaryaID
+2026-06-28 12:18:02,475 [INFO]     [true#4] SOCIAL_MEDIA  https://youtube.com/@adhikaryaid?si=2ziDKwtj30SFRGF9
+2026-06-28 12:18:05,092 [INFO]     [true#5] SOCIAL_MEDIA  https://vt.tiktok.com/ZSxg3vfWf/
+2026-06-28 12:18:06,903 [INFO]     [true#6] ARCHIVE  http://archive.today/fjKN6
+2026-06-28 12:18:08,731 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/fjKN6 — http://archive.today/fjKN6
+2026-06-28 12:18:10,274 [INFO] 
+=================================================================
+2026-06-28 12:18:10,274 [INFO] ✅ DONE — 31 rows written to scraped_content.csv
+2026-06-28 12:18:10,274 [INFO]    Articles processed   : 5
+2026-06-28 12:18:10,283 [INFO]    source_type counts   : {True: 26, False: 5}
+2026-06-28 12:18:10,283 [INFO]    content_type counts  : {'social_media': 18, 'news_site': 6, 'archive': 5, 'skip': 2}
+2026-06-28 12:18:10,283 [INFO]    scrape_status counts : {'error': 17, 'ok': 11, 'skipped': 2, 'timeout': 1}
+2026-06-28 12:18:10,283 [INFO] =================================================================
+2026-06-28 13:05:00,438 [INFO] =================================================================
+2026-06-28 13:05:00,438 [INFO] Content Scraper — TurnBackHoax
+2026-06-28 13:05:00,438 [INFO]   Input  : turnbackhoax_articles.csv
+2026-06-28 13:05:00,438 [INFO]   Output : scraped_content.csv
+2026-06-28 13:05:00,438 [INFO]   MAX_ROWS: 5
+2026-06-28 13:05:00,438 [INFO] =================================================================
+2026-06-28 13:05:00,480 [INFO]   TEST MODE: processing first 5 rows only.
+2026-06-28 13:05:00,480 [INFO]   Articles to process: 5
+2026-06-28 13:05:00,486 [INFO] 
+[0] Processing article 1/5
+2026-06-28 13:05:00,494 [INFO]     [false#0] SOCIAL_MEDIA  https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 13:05:01,060 [WARNING]     ⚠ No text extracted from https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 13:05:02,563 [INFO]     [true#0] SOCIAL_MEDIA  https://www.instagram.com/p/DZt34zcCXNJ/?igsh=MXNjOWxkaGQwYnR6bA==
+2026-06-28 13:05:02,986 [WARNING]     ⚠ No text extracted from https://www.instagram.com/p/DZt34zcCXNJ/?igsh=MXNjOWxkaGQwYnR6bA==
+2026-06-28 13:05:04,503 [INFO]     [true#1] SKIP  https://magma.esdm.go.id/
+2026-06-28 13:05:06,005 [INFO]     [true#2] SKIP  http://geologi.esdm.go.id
+2026-06-28 13:05:07,506 [INFO]     [true#3] SOCIAL_MEDIA  https://www.instagram.com/badan.geologi?igsh=MTZ2eDJyaXU2NnUxbA==
+2026-06-28 13:05:08,153 [WARNING]     ⚠ No text extracted from https://www.instagram.com/badan.geologi?igsh=MTZ2eDJyaXU2NnUxbA==
+2026-06-28 13:05:09,657 [INFO]     [true#4] SOCIAL_MEDIA  https://x.com/badangeologi_
+2026-06-28 13:05:12,120 [INFO]     [true#5] NEWS_SITE  https://www.detik.com/jatim/wisata/d-7310791/8-fakta-menarik-gunung-lawu-yang-berstatus-istirahat
+2026-06-28 13:05:14,356 [INFO]     [true#6] SOCIAL_MEDIA  https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 13:05:14,697 [WARNING]     ⚠ No text extracted from https://www.threads.com/@hsuliz2021/post/DZpvMe1EnEK?xmt=AQG0pOlJszptsGaeqnvxAA2hDCl0TrUEbgUvSGMtBnrty6MVmxZHtGSVMULwV19jHWrQO3w&slof=1
+2026-06-28 13:05:16,207 [INFO]     [true#7] ARCHIVE  http://archive.today/8jo4a
+2026-06-28 13:05:18,743 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/8jo4a — http://archive.today/8jo4a
+2026-06-28 13:05:20,249 [INFO] 
+[1] Processing article 2/5
+2026-06-28 13:05:20,249 [INFO]     [false#0] SOCIAL_MEDIA  https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 13:05:20,551 [WARNING]   HTTP error: 400 Client Error: Bad Request for url: https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl — https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 13:05:22,058 [INFO]     [true#0] NEWS_SITE  https://www.kompas.tv/info-publik/676022/pln-klarifikasi-isu-pemadaman-listrik-total-3-hari-nonstop-di-jawa-dan-bali-dipastikan-hoaks
+2026-06-28 13:05:22,775 [INFO]     ✂ Stripped paywall boilerplate (139 chars)
+2026-06-28 13:05:24,283 [INFO]     [true#1] SOCIAL_MEDIA  https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 13:05:24,557 [WARNING]   HTTP error: 400 Client Error: Bad Request for url: https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl — https://www.facebook.com/farid.hidayat.635136/posts/pfbid0UtKLUi54pxABqt7PpTHZQvpuT2mUjQnAAv2Ghfmmve9XP2D3J4EEDrwNNNsw8ohyl
+2026-06-28 13:05:26,070 [INFO]     [true#2] ARCHIVE  https://archive.ph/wip/zcQc7
+2026-06-28 13:05:26,628 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/zcQc7 — https://archive.ph/wip/zcQc7
+2026-06-28 13:05:28,136 [INFO] 
+[2] Processing article 3/5
+2026-06-28 13:05:28,136 [INFO]     [false#0] SOCIAL_MEDIA  https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 13:05:29,996 [WARNING]     ⚠ No text extracted from https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 13:05:31,512 [INFO]     [true#0] NEWS_SITE  https://www.liputan6.com/cek-fakta/read/7891164/cek-fakta-hoaks-artikel-jubir-esdm-minta-masyarakat-pakai-solar-saat-pertamax-naik-harga
+2026-06-28 13:05:33,434 [INFO]     [true#1] NEWS_SITE  https://money.kompas.com/read/2026/06/11/174512626/pertamax-jadi-rp-16250-per-liter-esdm-itu-masih-di-bawah-harga-keekonomian.
+2026-06-28 13:05:34,180 [INFO]     ✂ Stripped paywall boilerplate (2294 chars)
+2026-06-28 13:05:35,692 [INFO]     [true#2] SOCIAL_MEDIA  https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 13:05:36,741 [WARNING]     ⚠ No text extracted from https://web.facebook.com/photo/?fbid=122132476167140851&set=a.122101962405140851
+2026-06-28 13:05:38,245 [INFO]     [true#3] ARCHIVE  https://archive.ph/uyrOd
+2026-06-28 13:05:38,522 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/uyrOd — https://archive.ph/uyrOd
+2026-06-28 13:05:40,035 [INFO] 
+[3] Processing article 4/5
+2026-06-28 13:05:40,037 [INFO]     [false#0] SOCIAL_MEDIA  https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 13:05:40,930 [WARNING]     ⚠ No text extracted from https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 13:05:42,434 [INFO]     [true#0] NEWS_SITE  https://sariroti.com/id/karir
+2026-06-28 13:05:44,478 [INFO]     [true#1] SOCIAL_MEDIA  https://www.linkedin.com/company/pt-nippon-indosari-corpindo-tbk/
+2026-06-28 13:05:46,993 [INFO]     [true#2] SOCIAL_MEDIA  https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 13:05:47,592 [WARNING]     ⚠ No text extracted from https://vt.tiktok.com/ZSQXecxNK/
+2026-06-28 13:05:49,093 [INFO]     [true#3] ARCHIVE  http://archive.today/86CAq
+2026-06-28 13:05:51,781 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/86CAq — http://archive.today/86CAq
+2026-06-28 13:05:53,302 [INFO] 
+[4] Processing article 5/5
+2026-06-28 13:05:53,302 [INFO]     [false#0] SOCIAL_MEDIA  https://vt.tiktok.com/ZSxg3vfWf/
+2026-06-28 13:05:53,610 [WARNING]     ⚠ JS redirect detected — marking as js_redirect: https://vt.tiktok.com/ZSxg3vfWf/
+2026-06-28 13:05:55,123 [INFO]     [true#0] NEWS_SITE  https://karir.adhi.co.id/
+2026-06-28 13:06:15,133 [WARNING]   Timeout (attempt 1/3): https://karir.adhi.co.id/
+2026-06-28 13:06:37,149 [WARNING]   Timeout (attempt 2/3): https://karir.adhi.co.id/
+2026-06-28 13:07:01,158 [WARNING]   Timeout (attempt 3/3): https://karir.adhi.co.id/
+2026-06-28 13:07:02,660 [INFO]     [true#1] SOCIAL_MEDIA  https://www.instagram.com/p/CXX9V6JhfX5/?igsh=dWpucXFrN3Bsa3F1
+2026-06-28 13:07:03,243 [WARNING]     ⚠ No text extracted from https://www.instagram.com/p/CXX9V6JhfX5/?igsh=dWpucXFrN3Bsa3F1
+2026-06-28 13:07:04,744 [INFO]     [true#2] SOCIAL_MEDIA  https://www.instagram.com/adhikaryaid?igsh=dmZobjIwYjI4b29o
+2026-06-28 13:07:05,090 [WARNING]     ⚠ No text extracted from https://www.instagram.com/adhikaryaid?igsh=dmZobjIwYjI4b29o
+2026-06-28 13:07:06,603 [INFO]     [true#3] SOCIAL_MEDIA  https://x.com/adhikaryaID
+2026-06-28 13:07:09,154 [INFO]     [true#4] SOCIAL_MEDIA  https://youtube.com/@adhikaryaid?si=2ziDKwtj30SFRGF9
+2026-06-28 13:07:11,802 [INFO]     [true#5] SOCIAL_MEDIA  https://vt.tiktok.com/ZSxg3vfWf/
+2026-06-28 13:07:12,133 [WARNING]     ⚠ JS redirect detected — marking as js_redirect: https://vt.tiktok.com/ZSxg3vfWf/
+2026-06-28 13:07:13,647 [INFO]     [true#6] ARCHIVE  http://archive.today/fjKN6
+2026-06-28 13:07:15,414 [WARNING]   HTTP error: 429 Client Error: Too Many Requests for url: https://archive.md/fjKN6 — http://archive.today/fjKN6
+2026-06-28 13:07:16,979 [INFO] 
+=================================================================
+2026-06-28 13:07:16,979 [INFO] ✅ DONE — 31 rows written to scraped_content.csv
+2026-06-28 13:07:16,979 [INFO]    Articles processed   : 5
+2026-06-28 13:07:16,979 [INFO]    source_type counts   : {True: 26, False: 5}
+2026-06-28 13:07:16,987 [INFO]    content_type counts  : {'social_media': 18, 'news_site': 6, 'archive': 5, 'skip': 2}
+2026-06-28 13:07:16,988 [INFO]    scrape_status counts : {'error': 17, 'ok': 9, 'skipped': 2, 'js_redirect': 2, 'timeout': 1}
+2026-06-28 13:07:16,988 [INFO] =================================================================
